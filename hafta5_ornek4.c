@@ -1,3 +1,4 @@
+/*
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -8,4 +9,4 @@ int a2[]={12,13,14,15,16,17,18};
 
 printvector(a1);
 printvector(a2);
-}
+}*/

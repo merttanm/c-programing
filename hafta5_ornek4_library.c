@@ -1,3 +1,4 @@
+/*
 #include "hafta5_ornek4_vectorlib.h"
 
 #define N 10
@@ -21,4 +22,4 @@ int innerproduct( int v1[N], int v2[N]){
 	
 	return sum;
 
-}
+}*/
